@@ -12,6 +12,11 @@ dist
 dist-ssr
 *.local
 
+# backend files
+__pycache__
+venv
+final_chest_xray_model.h5
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
